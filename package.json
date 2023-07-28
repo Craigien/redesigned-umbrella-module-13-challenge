@@ -1,0 +1,32 @@
+{
+  "name": "redesigned-umbrella-module-13-challenge",
+  "version": "1.0.0",
+  "description": "Module 13 Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Craigien/redesigned-umbrella-module-13-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Craigien/redesigned-umbrella-module-13-challenge/issues"
+  },
+  "homepage": "https://github.com/Craigien/redesigned-umbrella-module-13-challenge#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+  }
+}
