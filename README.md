@@ -19,7 +19,7 @@ To add a new item use POST route http://localhost:3001/api/option_name and pass 
 To update existing item use PUT route http://localhost:3001/option_name/ID_number and pass in JSON.
 To delete existing item use DELETE route http://localhost:3001/option_name/ID_number.
 
-E-Commerce Video Demonstration: 
+E-Commerce Video Demonstration: https://drive.google.com/file/d/1YGZpgPwge-sJTtzkKgAs5NNm1mGiFkGh/view?usp=sharing
 
 ## Credits
 
